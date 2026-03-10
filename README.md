@@ -177,15 +177,5 @@ http://localhost:3000
 
 ## Demonstration Video
 
-A video demonstration of the application showing the functionality and test cases is available here:
-
 **YouTube Link:**
-PASTE YOUR VIDEO LINK HERE
 
-The video demonstrates:
-
-* The application running in the browser
-* Explanation of the component structure
-* Usage of default and named imports/exports
-* Demonstration of normal test cases
-* Demonstration of edge test cases
