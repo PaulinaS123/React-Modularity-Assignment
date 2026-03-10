@@ -1,7 +1,5 @@
 # React-Modularity-Assignment
-
-# React Modularity Assignment
-
+## Victoria Salomon
 ## Project Overview
 
 This project demonstrates how to build a **modular React application** using multiple components and ES6 import/export syntax. The application includes several components that are organized into separate files to promote clean code and reusability.
